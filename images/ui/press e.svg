@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="20px" viewBox="0 0 80 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="PixelCyr-Normal, Pixel Cyr" font-size="10" font-weight="normal" letter-spacing="0.10625" fill="#FFFFFF">
+            <tspan x="0" y="10">[e]</tspan>
+        </text>
+        <filter x="-20.0%" y="-27.3%" width="140.0%" height="154.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="PixelCyr-Normal, Pixel Cyr" font-size="9" font-weight="normal" letter-spacing="0.0956250057" fill="#FFFFFF">
+            <tspan x="0" y="9">[e]</tspan>
+        </text>
+        <filter x="-23.1%" y="-30.0%" width="146.2%" height="160.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-5" font-family="PixelCyr-Normal, Pixel Cyr" font-size="9" font-weight="normal" letter-spacing="0.0956250057" fill="#FFFFFF">
+            <tspan x="0" y="9">[e]</tspan>
+        </text>
+        <filter x="-23.1%" y="-30.0%" width="146.2%" height="160.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-7" font-family="PixelCyr-Normal, Pixel Cyr" font-size="8" font-weight="normal" letter-spacing="0.0956250057" fill="#FFFFFF">
+            <tspan x="0" y="8">[e]</tspan>
+        </text>
+        <filter x="-25.0%" y="-33.3%" width="150.0%" height="166.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+        <g id="Group" transform="translate(4.000000, 4.000000)" fill="#FFFFFF">
+            <g id="[e]">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(23.000000, 5.000000)" fill="#FFFFFF">
+            <g id="[e]">
+                <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                <use xlink:href="#text-3"></use>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(63.000000, 5.000000)" fill="#FFFFFF">
+            <g id="[e]">
+                <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+                <use xlink:href="#text-5"></use>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(43.000000, 6.000000)" fill="#FFFFFF">
+            <g id="[e]">
+                <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                <use xlink:href="#text-7"></use>
+            </g>
+        </g>
+    </g>
+</svg>

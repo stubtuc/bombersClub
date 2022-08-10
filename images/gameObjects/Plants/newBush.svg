@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="96px" viewBox="0 0 48 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.4%" y="-6.2%" width="110.8%" height="125.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M26,1 L35,1 L35,5 L37,5 L37,14 L35,14 L35,20 L35,23 L32,23 L32,27 L18,27 L18,28 L4,28 L4,26 L2,26 L2,24 L0,24 L0,5 L2,5 L2,3 L4,3 L4,1 L12,1 L12,0 L26,0 L26,1 Z" id="path-2"></path>
+        <path d="M26,1 L35,1 L35,5 L37,5 L37,14 L35,14 L35,20 L35,23 L32,23 L32,27 L18,27 L18,28 L4,28 L4,26 L2,26 L2,24 L0,24 L0,5 L2,5 L2,3 L4,3 L4,1 L12,1 L12,0 L26,0 L26,1 Z" id="path-3"></path>
+        <filter x="-24.3%" y="-28.1%" width="148.6%" height="156.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M26,1 L35,1 L35,5 L37,5 L37,14 L35,14 L35,20 L35,23 L32,23 L32,27 L18,27 L18,28 L4,28 L4,26 L2,26 L2,24 L0,24 L0,5 L2,5 L2,3 L4,3 L4,1 L12,1 L12,0 L26,0 L26,1 Z" id="path-5"></path>
+        <path d="M26,1 L35,1 L35,5 L37,5 L37,14 L35,14 L35,20 L35,23 L32,23 L32,27 L18,27 L18,28 L4,28 L4,26 L2,26 L2,24 L0,24 L0,5 L2,5 L2,3 L4,3 L4,1 L12,1 L12,0 L26,0 L26,1 Z" id="path-6"></path>
+        <filter x="-27.0%" y="-35.7%" width="154.1%" height="171.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.976470588   0 0 0 0 0  0 0 0 0.540449502 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Small-tree" filter="url(#filter-1)" transform="translate(23.500000, 24.000000) scale(-1, 1) translate(-23.500000, -24.000000) translate(5.000000, 8.000000)">
+            <g id="Combined-Shape">
+                <use fill="#306832" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#204321" stroke-width="1" d="M25.5,0.5 L12.5,0.5 L12.5,1.5 L4.5,1.5 L4.5,3.5 L2.5,3.5 L2.5,5.5 L0.5,5.5 L0.5,23.5 L2.5,23.5 L2.5,25.5 L4.5,25.5 L4.5,27.5 L17.5,27.5 L17.5,26.5 L31.5,26.5 L31.5,22.5 L34.5,22.5 L34.5,13.5 L36.5,13.5 L36.5,5.5 L34.5,5.5 L34.5,1.5 L25.5,1.5 L25.5,0.5 Z"></path>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#306832" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke="#204321" stroke-width="1" d="M25.5,0.5 L12.5,0.5 L12.5,1.5 L4.5,1.5 L4.5,3.5 L2.5,3.5 L2.5,5.5 L0.5,5.5 L0.5,23.5 L2.5,23.5 L2.5,25.5 L4.5,25.5 L4.5,27.5 L17.5,27.5 L17.5,26.5 L31.5,26.5 L31.5,22.5 L34.5,22.5 L34.5,13.5 L36.5,13.5 L36.5,5.5 L34.5,5.5 L34.5,1.5 L25.5,1.5 L25.5,0.5 Z"></path>
+            </g>
+            <g id="dots" transform="translate(5.000000, 4.000000)" fill="#204321">
+                <rect id="Rectangle-21" x="4" y="2" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="0" y="11" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="20" y="7" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="12" y="11" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="13" y="0" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="27" y="2" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="27" y="12" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="22" y="18" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="7" y="17" width="1" height="1"></rect>
+            </g>
+        </g>
+        <g id="Small-tree" filter="url(#filter-4)" transform="translate(24.500000, 72.000000) scale(-1, 1) translate(-24.500000, -72.000000) translate(6.000000, 56.000000)">
+            <g id="Combined-Shape">
+                <use fill="#306832" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <path stroke="#204321" stroke-width="1" d="M25.5,0.5 L12.5,0.5 L12.5,1.5 L4.5,1.5 L4.5,3.5 L2.5,3.5 L2.5,5.5 L0.5,5.5 L0.5,23.5 L2.5,23.5 L2.5,25.5 L4.5,25.5 L4.5,27.5 L17.5,27.5 L17.5,26.5 L31.5,26.5 L31.5,22.5 L34.5,22.5 L34.5,13.5 L36.5,13.5 L36.5,5.5 L34.5,5.5 L34.5,1.5 L25.5,1.5 L25.5,0.5 Z"></path>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                <use fill="#306832" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <path stroke="#204321" stroke-width="1" d="M25.5,0.5 L12.5,0.5 L12.5,1.5 L4.5,1.5 L4.5,3.5 L2.5,3.5 L2.5,5.5 L0.5,5.5 L0.5,23.5 L2.5,23.5 L2.5,25.5 L4.5,25.5 L4.5,27.5 L17.5,27.5 L17.5,26.5 L31.5,26.5 L31.5,22.5 L34.5,22.5 L34.5,13.5 L36.5,13.5 L36.5,5.5 L34.5,5.5 L34.5,1.5 L25.5,1.5 L25.5,0.5 Z"></path>
+                <path stroke="#FFF900" stroke-width="1" d="M26.5,0.5 L35.5,0.5 L35.5,4.5 L37.5,4.5 L37.5,14.5 L35.5,14.5 L35.5,23.5 L32.5,23.5 L32.5,27.5 L18.5,27.5 L18.5,28.5 L3.5,28.5 L3.5,26.5 L1.5,26.5 L1.5,24.5 L-0.5,24.5 L-0.5,4.5 L1.5,4.5 L1.5,2.5 L3.5,2.5 L3.5,0.5 L11.5,0.5 L11.5,-0.5 L26.5,-0.5 L26.5,0.5 Z"></path>
+            </g>
+            <g id="dots" transform="translate(5.000000, 4.000000)" fill="#204321">
+                <rect id="Rectangle-21" x="4" y="2" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="0" y="11" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="20" y="7" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="12" y="11" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="13" y="0" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="27" y="2" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="27" y="12" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="22" y="18" width="1" height="1"></rect>
+                <rect id="Rectangle-21" x="7" y="17" width="1" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

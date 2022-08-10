@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+
+    padding: 0;
+    margin: 0;
+
+    overflow: hidden;
+}
+
+.game-container {
+    position: relative;
+
+    width: 4870px;
+    height: 3870px;
+
+    image-rendering: pixelated;
+}
+
+.hud {
+    position: absolute;
+    z-index: 1;
+}
+
+.filter {
+    position: absolute;
+
+    z-index: 0;
+
+    width: 4870px;
+    height: 3870px;
+
+    /*backdrop-filter: hue-rotate(45deg)*/
+    /*backdrop-filter: brightness(0.2);*/
+    /*backdrop-filter: hue-rotate(295deg)*/
+    backdrop-filter: hue-rotate(21deg);
+}

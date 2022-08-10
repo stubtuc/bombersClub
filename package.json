@@ -1,0 +1,14 @@
+{
+  "name": "bombersclub",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
